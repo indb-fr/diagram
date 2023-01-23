@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T11:58:14.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="72WyFr1iGccM8ge-RvgS" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T14:12:58.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YIcb40yi-gRKiYIfAaIt" version="20.8.10" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
     <mxGraphModel dx="1195" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -215,19 +215,19 @@
           <mxGeometry x="160" y="231" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-19" value="Discovery-service" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="740" y="173" width="50" height="48" as="geometry" />
+          <mxGeometry x="740" y="81" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-20" value="Config-server" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="640" y="173" width="50" height="48" as="geometry" />
+          <mxGeometry x="660" y="90" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-21" value="Proxy-service" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="827" y="173" width="50" height="48" as="geometry" />
+          <mxGeometry x="820" y="90" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-22" value="API Integration" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="450" y="162" width="50" height="48" as="geometry" />
+          <mxGeometry x="400" y="186" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-23" value="API Commons" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="340" y="166" width="50" height="48" as="geometry" />
+          <mxGeometry x="400" y="110" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;" vertex="1" parent="1">
           <mxGeometry x="113" y="343" width="48" height="57" as="geometry" />
@@ -246,6 +246,15 @@
         </mxCell>
         <mxCell id="30JBpPZ3a9GQzdrcGxqS-29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="223" y="620" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="30JBpPZ3a9GQzdrcGxqS-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="74" y="690" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="30JBpPZ3a9GQzdrcGxqS-31" value="Admin-server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_web;" vertex="1" parent="1">
+          <mxGeometry x="764" y="221" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="30JBpPZ3a9GQzdrcGxqS-32" value="Frontal JS MPV1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_web;" vertex="1" parent="1">
+          <mxGeometry x="800" y="390" width="56" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
